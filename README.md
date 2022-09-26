@@ -1,7 +1,5 @@
 # 一个mod
 不知道干啥
-
-源码算了，毕竟也没啥
 # 懒
 ![懒](http://zidian.shufaai.com/uploads/zidian/xingshu/1_092412460S052.jpg)！
 # 翻译的mod
