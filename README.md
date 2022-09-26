@@ -5,9 +5,9 @@
 ![懒](http://zidian.shufaai.com/uploads/zidian/xingshu/1_092412460S052.jpg)
 # 翻译的mod
 
-如果发现源码和文件不一致了
+如果发现源码和文件不一致了，版本名字内外不一样
 
-可能是我傻批了
+我傻批了
 
 我对以下mod进行了翻译
 
