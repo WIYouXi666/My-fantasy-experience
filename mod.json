@@ -1,0 +1,21 @@
+{
+  "name":"fanyi",
+  "displayName":"只有翻译",
+  "author": "自由",
+  "version": "202209031248",
+  "description": "此mod仅提供翻译且不保证翻译准确: \n基本只翻译生存木炸且可以使用的\n当前以翻译mod:\n
+  << BetaMindy >> 
+          翻译版本: 1.09  (90%+)
+          时间: 忘了 20220903
+  << Progression Ministry >>
+          翻译版本: 26.3  (90%+)
+          时间: 忘了 20220903
+  << Project Unity >>
+          翻译版本: 0.1-youngcha.2.8  (75%)
+          时间: 20220924     
+     
+  ",
+  "hidden": true,
+  "minGameVersion": "136",
+ // "dependencies":["multi-crafter"]
+}
