@@ -17,9 +17,11 @@
 
 _[BetaMindy](https://github.com/sk7725/BetaMindy)_
 
-眼泪版本
+眼泪版本 v1.1
 
-@ 时间20200926 MOD 已合并了分支的中文翻译 
+时间20200926 BetaMindy MOD 已合并了分支中的中文翻译 
+
+意思是 MOD 有官中了
 
 _[prog-mats-java](https://github.com/meepoffaith/prog-mats-java)_
 
