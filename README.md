@@ -1,4 +1,4 @@
-![Logo](icon.png)
+![Logo](assets/icon.png)
 # 一个 mindustry-mod
 不知道干啥
 # 懒
