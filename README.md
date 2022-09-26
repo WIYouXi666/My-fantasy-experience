@@ -20,7 +20,7 @@ _[BetaMindy](https://github.com/sk7725/BetaMindy)_
 
 时间20200926 BetaMindy MOD 已合并了分支中的中文翻译 
 
-意思是 MOD 有官中了
+意思是 MOD的下个版本 要有官中了 😭
 
 _[prog-mats-java](https://github.com/meepoffaith/prog-mats-java)_
 
