@@ -30,7 +30,7 @@ _[ProjectUnityPublic](https://github.com/avantteam/projectunitypublic)_
 
 @ Galandustry汉化 99％
 
-#内容适用1.0.2
+# 内容适用1.0.2 ↓↓↓↓
 
  
  
