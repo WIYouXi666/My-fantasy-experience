@@ -17,7 +17,9 @@
 
 _[BetaMindy](https://github.com/sk7725/BetaMindy)_
 
-@ 我自己 90％
+眼泪版本
+
+@ 时间20200926 MOD 已合并了分支的中文翻译 
 
 _[prog-mats-java](https://github.com/meepoffaith/prog-mats-java)_
 
