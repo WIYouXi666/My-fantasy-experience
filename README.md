@@ -4,7 +4,6 @@
 # 懒
 ![懒](http://zidian.shufaai.com/uploads/zidian/xingshu/1_092412460S052.jpg)
 # 翻译的mod
-
 如果发现源码和文件不一致了，版本名字内外不一样
 
 我傻批了
@@ -30,6 +29,8 @@ _[prog-mats-java](https://github.com/meepoffaith/prog-mats-java)_
 _[ProjectUnityPublic](https://github.com/avantteam/projectunitypublic)_
 
 @ Galandustry汉化 99％
+
+#内容适用1.0.2
 
  
  
