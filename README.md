@@ -1,4 +1,4 @@
-# 一个mod
+# 一个 mindustry-mod
 不知道干啥
 # 懒
 ![懒](http://zidian.shufaai.com/uploads/zidian/xingshu/1_092412460S052.jpg)！
